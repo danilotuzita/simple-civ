@@ -1,14 +1,13 @@
 randomize();
-width = 6;
-height = 11;
-table_x = (1024 / 2) - (6 / 2 * 64);
-table_y = 32;
-table_grid = ds_grid_create(width, height);
+table_width = 6;
+table_height = 11;
+table = ds_grid_create(table_width, table_height);
 
-for (var i = 0; i < width; i++)
+for (var i = 0; i < table_width; i++)
 {
-	for (var j = 0; j < height; j++)
+	for (var j = 0; j < table_height; j++)
 	{
-		table_grid[# i, j] = create_block(i, j, -1);
+		table[# i, j] = create_tile(i, j, -1);
 	}
 }
+
