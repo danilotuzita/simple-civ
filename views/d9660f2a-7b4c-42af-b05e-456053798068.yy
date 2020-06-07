@@ -8,7 +8,7 @@
         "12c5e0bb-8982-406b-8c9b-54454d9ac378"
     ],
     "filterType": "GMSprite",
-    "folderName": "spr_blocks",
+    "folderName": "tiles",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

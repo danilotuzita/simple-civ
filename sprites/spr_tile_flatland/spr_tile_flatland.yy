@@ -2,7 +2,7 @@
     "id": "25a08102-21c4-45ec-90b3-a7528084504a",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_block_flatland",
+    "name": "spr_tile_flatland",
     "For3D": false,
     "HTile": false,
     "VTile": false,

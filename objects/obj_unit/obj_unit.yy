@@ -33,9 +33,23 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "0",
+            "value": "TYPE_UNDEFINED",
             "varName": "type",
-            "varType": 1
+            "varType": 4
+        },
+        {
+            "id": "5b8a93f0-0e6c-420d-a526-8e7c808373ae",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "PARENT_UNDEFINED",
+            "varName": "parent",
+            "varType": 4
         }
     ],
     "solid": false,

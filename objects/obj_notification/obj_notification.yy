@@ -1,28 +1,38 @@
 {
-    "id": "e1bdb274-d38b-44ce-acd8-6f2075c6cf95",
+    "id": "567a0a39-6e7d-89b7-7bda-c2ea7a2f2eac",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_player",
+    "name": "obj_notification",
     "eventList": [
         {
-            "id": "3e9f721c-40fe-4622-885a-0862aabc0ae5",
+            "id": "c5c13c54-c646-7e16-0cd9-f4cb63440e66",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
             "eventtype": 0,
-            "m_owner": "e1bdb274-d38b-44ce-acd8-6f2075c6cf95"
+            "enumb": 0,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "m_owner": "567a0a39-6e7d-89b7-7bda-c2ea7a2f2eac"
         },
         {
-            "id": "037d81a9-3335-9e0b-e963-e18363f3cc40",
+            "id": "5acf50b5-cc26-7fe4-b084-907572666117",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
+            "eventtype": 8,
+            "enumb": 73,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "m_owner": "567a0a39-6e7d-89b7-7bda-c2ea7a2f2eac"
+        },
+        {
+            "id": "b7002f40-175a-63c5-afc7-4a3282fcc2d2",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "eventtype": 2,
             "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "e1bdb274-d38b-44ce-acd8-6f2075c6cf95"
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "m_owner": "567a0a39-6e7d-89b7-7bda-c2ea7a2f2eac"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -42,20 +52,7 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": [
-        {
-            "id": "cd207578-45ad-4252-8e90-582da53462c9",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "PLAYER_UNK",
-            "varName": "player",
-            "varType": 4
-        }
+        
     ],
     "solid": false,
     "spriteId": "00000000-0000-0000-0000-000000000000",

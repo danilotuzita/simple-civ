@@ -7,7 +7,7 @@
         "17764ab0-695b-43cf-b857-206a17d1476d"
     ],
     "filterType": "GMSprite",
-    "folderName": "spr_units",
+    "folderName": "units",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

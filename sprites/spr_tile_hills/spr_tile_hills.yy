@@ -2,7 +2,7 @@
     "id": "12c5e0bb-8982-406b-8c9b-54454d9ac378",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_block_hills",
+    "name": "spr_tile_hills",
     "For3D": false,
     "HTile": false,
     "VTile": false,

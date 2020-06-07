@@ -1,8 +1,8 @@
 {
-    "id": "0f8c6a0e-92d6-fcbe-87c4-6a87af57eeb2",
+    "id": "4bfd6823-c537-3644-e9ae-1a76cd109420",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "get_random_type",
+    "name": "get_tile_j",
     "IsCompatibility": false,
     "IsDnD": false
 }
